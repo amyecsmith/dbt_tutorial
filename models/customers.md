@@ -9,5 +9,7 @@ The events in this table are recorded by Snowplow and piped into the warehouse o
  - /contact-us
 
  Testing github with vscode...
+ Testing via iterm cli
+ 
 
 {% enddocs %}
